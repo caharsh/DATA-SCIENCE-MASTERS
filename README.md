@@ -1,2 +1,2 @@
 # DATA-SCIENCE-MASTERS
-PWSKILSS DS MASTERS COURSE. here I will upload my learnings day wise.
+PWSKILSS DS MASTERS COURSE. Here I will upload my learnings day wise.
